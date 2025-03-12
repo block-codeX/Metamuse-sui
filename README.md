@@ -6,7 +6,7 @@ PITCH DECK: https://eu.docs.wps.com/module/common/loadPlatform/?sid=sIAfN-caKAqD
 
 General Overview
 
-This project aims to create a collaborative platform for digital artists, allowing them to create, mint, and share digital artwork as a fractionalized NFT, facilitating shared ownership and royalties among collaborators. Built on the SUI networks, the platform emphasizes decentralized storage via IPFS to ensure metadata and artwork snapshots are securely stored.
+This project aims to create a collaborative platform for digital artists, allowing them to create, mint, and share digital artwork as a fractionalized NFT, facilitating shared ownership and royalties among collaborators. Built on the SUI networks, the platform emphasizes decentralized storage via Walrus to ensure metadata and artwork snapshots are securely stored.
 
 Project Goal
 Objective: Enable artists to collaborate on digital artwork in real-time and mint the final piece as an NFT. Through fractional ownership, contributors can enjoy ongoing royalties whenever the artwork is sold or resold. Core Features: Collaborative Canvas: A real-time drawing canvas where artists can work simultaneously. NFT Minting (Lisk): The completed artwork is minted on SUI as an NFT. Fractional Ownership (SUI): Royalties are distributed among contributors on SUI.  Storage: Stores artwork and metadata for decentralization and permanence.
